@@ -16,5 +16,4 @@ print('splittext    :', x, '____',y)
 print('join         :', os.path.join(x, y))
 print('basename     :', os.path.basename(abs_path))
 print('dirname      :', os.path.dirname(abs_path))
-print('curdir       :', os.curdir())
 
